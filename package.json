@@ -21,6 +21,6 @@
   "homepage": "https://github.com/emilfolino/nobel#readme",
   "dependencies": {
     "mithril": "^1.1.6",
-    "webpack": "^3.10.0"
+    "webpack": "^4.29.3"
   }
 }
