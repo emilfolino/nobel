@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/emilfolino/nobel#readme",
   "dependencies": {
-    "mithril": "^1.1.6",
+    "mithril": "^1.1.7",
     "webpack": "^4.29.3"
   }
 }
